@@ -1,4 +1,4 @@
 git add .
-git commit -m "ÇOK ŞÜKÜR"
+git commit -m "ÇOK ŞÜKÜRLER OLSUN"
 git push origin main
 git push production main
