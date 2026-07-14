@@ -1,0 +1,4 @@
+git add .
+git commit -m "ÇOK ŞÜKÜR"
+git push origin main
+git push production main
