@@ -1,6 +1,6 @@
 // Tek kalemde inşallah
 git add .
-git commit -m "Subhanellezi"
+git commit -m "SubhanELLEZi"
 git push deploy main
 
 // Tek kalemde inşallah
