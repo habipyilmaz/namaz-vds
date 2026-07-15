@@ -2,3 +2,12 @@ git add .
 git commit -m "ÇOK ŞÜKÜRLER OLSUN"
 git push origin main
 git push production main
+
+git add .
+git commit -m "değişiklik"
+git push production main
+
+
+git add .
+git commit -m "Bu inşallah"
+git push deploy main
