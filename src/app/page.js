@@ -7,6 +7,7 @@ export default function Home() {
 
              <h1>15 TEMMUZ 2026</h1>
        <h1>ELHAMDÜLİLLAH HAMD OLSUN</h1>
+        <h1>Allahuteala yol selameti versin</h1>
       
     </div>
     </div>
